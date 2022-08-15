@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="location">Location</string>
+    <string name="brinda">BRINDA</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_24_u00b0c">24°C</string>
+    <string name="min_temp">Min temp</string>
+    <string name="max_temp">Max temp</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_5_30am">5:30am</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="created_by">Created by</string>
+    <string name="humidity">Humidity</string>
+    <string name="_6_00pm">6:00pm</string>
+    <string name="_4_28">4.28</string>
+    <string name="_1006">1006</string>
+    <string name="_60">60</string>
+    <string name="surat">Surat</string>
+    <string name="city">CITY</string>
+    <string name="enter_city_here">Enter CITY Here</string>
+    <string name="search">Search</string>
+</resources>
